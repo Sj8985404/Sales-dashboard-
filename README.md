@@ -1,0 +1,1 @@
+A lightweight, fully self-contained Sales & Revenue Dashboard built with HTML, CSS, and Chart.js. Features 6 interactive chart types, 4 KPI cards, quarter filters, and 5 swappable colour themes — all in a single HTML file. No installation, no backend, no dependencies. Just open and go.
